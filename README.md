@@ -5,5 +5,5 @@ Does what you mean when you want to update your `dependencies` & `devDependencie
 
 Usage:
 ```shell script
-$ TODO
+$ sh -c "$(curl -sSL https://gitlab.com/northscaler-public/gists/-/raw/master/npm-update.sh)"
 ```
